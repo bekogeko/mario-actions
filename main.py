@@ -9,4 +9,5 @@ def main():
     pyramid_pattern(number)
     print("Goodbye!")
 
-main()
+if __name__ == "__main__":
+    main()

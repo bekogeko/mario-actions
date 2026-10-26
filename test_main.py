@@ -1,6 +1,6 @@
 import pytest
 
-from test import main, pyramid_pattern
+from main import main, pyramid_pattern
 
 
 def lines_of(capsys):
